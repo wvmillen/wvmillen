@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm William Millen!
+# 👋 Hi, I'm William Millen!
 
-### 🚀 About Me
+## 🍃 About Me
 - 🎓 I’m currently studying Computer Science Major at [UNC](https://cs.unc.edu/).
-- 🌱 I’m currently working at a Research Lab, The local newspaper, and School.
-- 💡 I enjoy Systems, Software Development, and Full Stack Devlpement.
-- 📫 Reach me at wvmillen@gmail.com!
+- 🌱 Balancing my time between working in a research lab, contributing to the local newspaper, and staying involved at school.
+- 💡 I enjoy Systems, Software Development, and Full Stack Development.
 
 ---
 
-### 🛠️ Tech & Tools
+## 🛠️ Tech & Tools
+Here’s a glimpse of the tools and technologies I use regularly:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="70" height="70"/>
