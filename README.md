@@ -30,7 +30,5 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wvmillen)](https://github.com/wvmillen/github-readme-stats)</p>
-
 
 ---
