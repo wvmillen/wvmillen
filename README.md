@@ -1,7 +1,5 @@
 <h1 align="center">
-  <strong>
-👋 Hi, I'm William!
-  </strong>
+  👋 Hi, I'm William!
 </h1>
 
 ## About Me
