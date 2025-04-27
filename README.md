@@ -1,5 +1,7 @@
 <h1 align="center">
-🍃 Hi, I'm William!
+  <strong>
+👋 Hi, I'm William!
+  </strong>
 </h1>
 
 ## About Me
