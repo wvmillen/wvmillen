@@ -30,12 +30,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wvmillen&show_icons=true&theme=radical" alt="William's GitHub stats" />
-</p>
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wvmillen)](https://github.com/wvmillen/github-readme-stats)</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wvmillen&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
