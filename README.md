@@ -1,14 +1,15 @@
-# 👋 Hi, I'm William Millen!
+<div align="center">
+# 👋 🍃 Hi, I'm William!
+</div>
 
 ## About Me
 - 🎓 I’m currently studying Computer Science Major at [UNC](https://cs.unc.edu/).
-- 🌱 Balancing my time between working in a research lab, contributing to the local newspaper, and staying involved at school.
-- 💡 I enjoy Systems, Software Development, and Full Stack Development.
+- 🌀 Balancing my time between working in a research lab, contributing to the local newspaper, and staying involved at school.
+- ⚙️ I enjoy Systems, Software Development, and Full Stack Development.
 
 ---
 
-## 🛠️ Tech & Tools
-Here’s a glimpse of the tools and technologies I use regularly:
+## Tools and technologies I work with regularly:
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white" />
@@ -29,5 +30,12 @@ Here’s a glimpse of the tools and technologies I use regularly:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wvmillen&show_icons=true&theme=radical" alt="William's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wvmillen&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
