@@ -1,6 +1,6 @@
-<div align="center">
-# 👋 🍃 Hi, I'm William!
-</div>
+<h1 align="center">
+👋 🍃 Hi, I'm William!
+</h1>
 
 ## About Me
 - 🎓 I’m currently studying Computer Science Major at [UNC](https://cs.unc.edu/).
