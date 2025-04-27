@@ -10,7 +10,7 @@
 ## 🛠️ Tech & Tools
 Here’s a glimpse of the tools and technologies I use regularly:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
