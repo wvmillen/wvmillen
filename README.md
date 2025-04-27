@@ -7,7 +7,6 @@
 - 🌀 Balancing my time between working in a research lab, contributing to the local newspaper, and staying involved at school.
 - ⚙️ I enjoy Systems, Software Development, and Full Stack Development.
 
----
 
 ## Tools and technologies I work with regularly:
 
@@ -29,6 +28,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
-
-
----
