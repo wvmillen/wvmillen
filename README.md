@@ -4,7 +4,7 @@
 
 ## About Me
 - 🎓 I’m currently studying Computer Science Major at [UNC](https://cs.unc.edu/).
-- 🌀 Balancing my time between working in a research lab, contributing to the local newspaper, and staying involved at school.
+- 🌀 Balancing my time between working in a research lab, working on Looped Social, and staying involved at school.
 - ⚙️ I enjoy Systems, Software Development, and Full Stack Development.
 
 
