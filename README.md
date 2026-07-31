@@ -4,11 +4,11 @@
 
 ## About Me
 - 🎓 I’m currently studying Computer Science Major at [UNC](https://cs.unc.edu/).
-- 🌀 Balancing my time between working in a research lab, working on Looped Social, and staying involved at school.
+- 🌀 Balancing my time between working in a research lab, working on startups, and staying involved at school.
 - ⚙️ I enjoy Systems, Software Development, and Full Stack Development.
 
 
-## Tools and technologies I work with regularly:
+## Stuff I use:
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white" />
