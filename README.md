@@ -8,7 +8,7 @@
 - ⚙️ I enjoy Systems, Software Development, and Full Stack Development.
 
 
-## Stuff I use:
+## Technical stuff I use:
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white" />
