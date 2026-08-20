@@ -3,7 +3,7 @@
 </h1>
 
 ## About Me
-- 🎓 I’m currently studying Computer Science Major at [UNC](https://cs.unc.edu/).
+- 🎓 I’m currently studying Computer Science at [UNC](https://cs.unc.edu/).
 - 🌀 Balancing my time between working in a research lab, working on startups, and staying involved at school.
 - ⚙️ I enjoy Systems, Software Development, and Full Stack Development.
 
